@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScrollViewContainer_library/ScrollViewContainer_library.iml" filepath="$PROJECT_DIR$/ScrollViewContainer_library/ScrollViewContainer_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingMall.iml" filepath="$PROJECT_DIR$/ShoppingMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addsubview/addsubview.iml" filepath="$PROJECT_DIR$/addsubview/addsubview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
